@@ -6,10 +6,18 @@ The model predicts the type of trees/plants that can be grown in a particular ty
 
 The model predicts the most suitable type of plant by analysing through different features such as the distance to hydrology, hillshade, and soil type.
 The result is an integer value between 1 and 7 which gives us the type of tree that could be planted in that particular surrounding.
-  1 being Spruce/fir in which trees such as Picea engelmannii and Abies lasiocarpa can be planted.
-  2 being Lodgepole Pine where pine tree are most favourable.
-  3 is Ponderosa Pine
-  4 is Cottonwood/Willow
-  5 being Aspen trees
-  6 includes coast Douglas-fir, and Rocky Mountain Douglas-fir.
-  7 is Krummholz mostly found in mountains.
+
+1 being Spruce/fir in which trees such as Picea engelmannii and Abies lasiocarpa can be planted.
+
+2 being Lodgepole Pine where pine tree are most favourable.
+
+3 is Ponderosa Pine
+
+4 is Cottonwood/Willow
+
+5 being Aspen trees
+
+6 includes coast Douglas-fir, and Rocky Mountain Douglas-fir.
+
+7 is Krummholz mostly found in mountains.
+
