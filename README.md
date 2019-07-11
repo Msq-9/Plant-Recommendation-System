@@ -1,4 +1,4 @@
-# Plant-Resommendation-System
+# Plant-Recommendation-System
 
 Planting a tree avoids pollution, one of the greatest problems faced by mankind. If we all start planting a tree pollution can be reduced to some extent as it purifies air, but how do we know which species of tree should we plant. This model helps us with finding the most appropriate tree for planting according to the surrounding.
 
